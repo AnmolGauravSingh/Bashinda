@@ -9,7 +9,7 @@
     <img src="https://github.com/AnmolGauravSingh/Bashinda/blob/main/Bashinda_Animated.gif" width="40%" alt="Logo">
   </a>
 
-  <h2 align="center">Bashinda</h3>
+  <h1 align="center">Bashinda</h1>
 
   <p align="center">
     Your Online Travel Guide !
